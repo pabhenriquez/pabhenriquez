@@ -13,14 +13,3 @@ Universidad Adolfo Ibáñez
 
 "Introduction to artificial intelligence" (Semester 2-2019).
 
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
