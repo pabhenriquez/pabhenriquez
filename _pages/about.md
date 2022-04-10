@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business and Director of the Center for Empirical Research in Businesses ([CIEN](https://cien.udp.cl)), Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, complex systems, and computational social science.
+I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business and Director of the Center for Empirical Research in Businesses ([CIEN](https://cien.udp.cl)), Facultad de Economía y Empresas, Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, complex systems, and computational social science.
 
 
 
