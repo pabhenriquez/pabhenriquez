@@ -15,6 +15,9 @@ I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Univer
 
 Journal Articles (WoS)
 ======
+1. Billi, M., Mascareño, A., Henríquez, P.A., Rodríguez, I., Padilla, F., Ruz, G.A. Learning from crises? The long and winding road of the salmon industry in Chiloé Island, Chile, [Marine Policy](https://www.sciencedirect.com/journal/marine-policy), Vol. 120, 2022, 105069.
+([LINK](https://www.sciencedirect.com/science/article/abs/pii/S0308597X22001166))
+
 1. Henríquez, P.A., Sabat, J., Sullivan, JP. Politicians’ willingness to agree: evidence from the interactions in twitter of Chilean deputies, [Journal of Information Technology & Politics](https://www.tandfonline.com/journals/witp20), 2022, 1-20.
 ([LINK](https://www.tandfonline.com/doi/abs/10.1080/19331681.2022.2056278))
 
