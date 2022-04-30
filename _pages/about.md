@@ -22,7 +22,8 @@ Journal Articles (WoS)
 ([LINK](https://www.tandfonline.com/doi/abs/10.1080/19331681.2022.2056278))
 
 
-2. Cordero, R., Mascareño, A., Henríquez, P.A., Ruz, G.A. Drawing Constitutional Boundaries: A Digital Historical Analysis of the Writing Process of Pinochet’s 1980 Authoritarian Constitution, [Historical Methods: A Journal of Quantitative and Interdisciplinary History](https://www.tandfonline.com/toc/vhim20/current), Accepted
+2. Cordero, R., Mascareño, A., Henríquez, P.A., Ruz, G.A. Drawing Constitutional Boundaries: A Digital Historical Analysis of the Writing Process of Pinochet’s 1980 Authoritarian Constitution, [Historical Methods: A Journal of Quantitative and Interdisciplinary History](https://www.tandfonline.com/toc/vhim20/current), 2022, 1-23.
+([LINK](https://www.tandfonline.com/doi/full/10.1080/01615440.2022.2065396?src=))
 
 
 3. Ruz, G.A., Henríquez, P.A., Mascareño, A. Bayesian Constitutionalization: Twitter Sentiment Analysis of the Chilean Constitutional Process through Bayesian Network Classifiers, [Mathematics](https://www.mdpi.com/journal/mathematics), 2, 2022, 166.
