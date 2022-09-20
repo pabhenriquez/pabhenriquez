@@ -15,6 +15,12 @@ I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Univer
 
 Journal Articles (WoS)
 ======
+1. Díaz, F., Henríquez, P. A., Winkelried, D. Heterogeneous Responses in Google Trends Measures of Well-Being to the COVID-19 Dynamic Quarantines in Chile, [Scientific Reports](https://www.nature.com/srep/), Vol. 12, 2022, 1-12.
+([LINK](https://link.springer.com/content/pdf/10.1038/s41598-022-18514-z.pdf))
+
+1. Cillero, J.I., Henríquez, P.A., Ledger, T.W., Ruz, G.A., González, B. Individual competence predominates over host nutritional status in Arabidopsis root exudate-mediated bacterial enrichment in a combination of four Burkholderiaceae species, [BMC Microbiology](https://bmcmicrobiol.biomedcentral.com/), Vol. 22, 2022, 218.
+([LINK](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02633-8))
+
 1. Billi, M., Mascareño, A., Henríquez, P.A., Rodríguez, I., Padilla, F., Ruz, G.A. Learning from crises? The long and winding road of the salmon industry in Chiloé Island, Chile, [Marine Policy](https://www.sciencedirect.com/journal/marine-policy), Vol. 120, 2022, 105069.
 ([LINK](https://www.sciencedirect.com/science/article/abs/pii/S0308597X22001166))
 
