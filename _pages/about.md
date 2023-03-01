@@ -15,6 +15,9 @@ I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Univer
 
 Journal Articles (WoS)
 ======
+1. Ruz, G.A., Araya-Díaz, P., Henríquez, P.A. Facial biotype classification for orthodontic treatment planning using an alternative learning algorithm for tree augmented Naive Bayes, [BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/), Vol. 22, 2022, 316.
+([LINK](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-02062-7))
+
 1. Díaz, F., Henríquez, P. A., Winkelried, D. Heterogeneous Responses in Google Trends Measures of Well-Being to the COVID-19 Dynamic Quarantines in Chile, [Scientific Reports](https://www.nature.com/srep/), Vol. 12, 2022, 1-12.
 ([LINK](https://link.springer.com/content/pdf/10.1038/s41598-022-18514-z.pdf))
 
@@ -71,7 +74,8 @@ Papers in Conference Proceedings
 
 Research Projects Participation
 =====
-
+1. "Sentiment Classification of Social Media Through Randomization-based Neural Networks" (FONDECYT
+INICIACIÓN 2023- 11230396), 2023-2025, Head Researcher.
 1. "Machine Learning for Mental Health: New Developments and Applications Using Multimodal Data"
 (Anillos ACT210096), 2021-2024, Associate Researcher.
 2. "Bien Público Observatorio turístico Big Data Región Metropolitana." Bienes Públicos CORFO (2017-
