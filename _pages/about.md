@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business and Director of the Center for Empirical Research in Businesses ([CIEN](https://cien.udp.cl)), Facultad de Economía y Empresas, Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, Business intelligence, complex systems, and computational social science.
+I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business, Facultad de Administración y Economía, Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, Business intelligence, complex systems, and computational social science.
 
 
 
 
 Journal Articles (WoS)
 ======
+1. Henríquez, P.A., Alessandri, F. Analyzing digital societal interactions and sentiment classification in
+Twitter (X) during critical events in Chile, [Heliyon](https://www.sciencedirect.com/journal/heliyon), 10(12), 2024, e32572.
+([LINK](https://www.sciencedirect.com/science/article/pii/S2405844024086031))
+
+1. Díaz, F., Henríquez, P.A. Assessing the impact of small firm dynamics on public mental health amid
+the pandemic in Latin America, [BMC Public Health](https://bmcpublichealth.biomedcentral.com/), 24(1), 2024, 1839.
+([LINK](https://link.springer.com/article/10.1186/s12889-024-19341-9))
 
 1. Díaz, F.,  Henríquez, P.A., Hardy, N., Ponce, D. Population Well-being and the COVID-19 Vaccination Program in Chile: Evidence from Google Trends, [Public Health](https://www.sciencedirect.com/journal/public-health), Vol. 219, 2023, 22-30.
 ([LINK](https://www.sciencedirect.com/science/article/pii/S0033350623000896))
