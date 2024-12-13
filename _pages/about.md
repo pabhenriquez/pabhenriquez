@@ -11,6 +11,7 @@ redirect_from:
 I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business, Facultad de Administración y Economía, Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, Business intelligence, complex systems, and computational social science.
 
 Academic Editor, PLOS ONE, 2023-present.
+
 Academic Editor, PLOS Complex Systems, 2024-present.
 
 
