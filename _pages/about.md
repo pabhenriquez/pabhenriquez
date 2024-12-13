@@ -10,11 +10,15 @@ redirect_from:
 
 I received my B.Sc. (2012), P.E. and M.Sc. (2015) degrees in Physics from Universidad de Concepción, Concepción, Chile. I completed my Ph.D. degree (2019) in Complex Systems at Universidad Adolfo Ibáñez, Chile. Currently, I am an Assitant Professor, Director of Master in Digital Business, Facultad de Administración y Economía, Universidad Diego Portales, Santiago, Chile. My research interests include machine learning, Neural Network with Random Weights, data mining, data science, Business intelligence, complex systems, and computational social science.
 
-
+Academic Editor, PLOS ONE, 2023-present.
+Academic Editor, PLOS Complex Systems, 2024-present.
 
 
 Journal Articles (WoS)
 ======
+1. Henríquez, P.A., Araya, N. Multimodal Alzheimer’s disease classification through ensemble deep random vector functional link neural network, [PeerJ Computer Science](https://peerj.com/computer-science/), 10:e2590, 2024.
+([LINK](https://peerj.com/articles/cs-2590/))
+
 1. Henríquez, P.A., Alessandri, F. Analyzing digital societal interactions and sentiment classification in
 Twitter (X) during critical events in Chile, [Heliyon](https://www.sciencedirect.com/journal/heliyon), 10(12), 2024, e32572.
 ([LINK](https://www.sciencedirect.com/science/article/pii/S2405844024086031))
@@ -77,6 +81,7 @@ the pandemic in Latin America, [BMC Public Health](https://bmcpublichealth.biome
 
 Papers in Conference Proceedings
 ======
+1. Henríquez, P.A. The IEEE 23rd International Conference on Machine Learning and Applications (ICMLA 2024), Miami, Florida, 18-20 December, 2024, Accepted.
 1. Ruz, G.A., Henríquez, P.A., Random vector functional link with naive Bayes for classification prob- lems of mixed data, The IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), Portland, Oregon, November 4-6, 2019, pp. 1749-1752.
 2. P.A. Henríquez, G.A. Ruz, Twitter sentiment classification based on deep random vector functional link. The 2018 IEEE International Joint Conference on Neural Networks (IEEE IJCNN 2018), Rio de Janeiro, Brazil, July 8-13, 2018, pp. 272-277.
 3. P.A. Henríquez, G.A. Ruz, An empirical study of the hidden matrix rank for neural networks with random weights. The IEEE 16th International Conference on Machine Learning and Applications (ICMLA 2017), Cancun, Mexico, 18-21 December, 2017, pp. 883-888.
