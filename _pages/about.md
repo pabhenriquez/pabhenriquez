@@ -17,6 +17,13 @@ Academic Editor, PLOS Complex Systems, 2024-present.
 
 Journal Articles (WoS)
 ======
+1. Magner, N., Henríquez, P. A.,  Sanhueza, A. Decoding risk sentiment in 10-K filings: Predictability for US stock indices. [Finance Research Letters](https://www.sciencedirect.com/journal/finance-research-letters),  2025, 107472.
+([LINK](https://www.sciencedirect.com/science/article/pii/S1544612325007317)))
+
+
+1. Henríquez, P.A., Acuña, J., Apablaza, V. Spatial Dynamics and Price Determinants in the Local Gasoline Retail Market: Evidence from Greater Santiago, [Spatial Economic Analysis](https://www.tandfonline.com/journals/rsea20), 2025, 1-24.
+([LINK](https://peerj.com/articles/cs-2590/](https://www.tandfonline.com/doi/abs/10.1080/17421772.2025.2474514)))
+
 1. Henríquez, P.A., Araya, N. Multimodal Alzheimer’s disease classification through ensemble deep random vector functional link neural network, [PeerJ Computer Science](https://peerj.com/computer-science/), 10:e2590, 2024.
 ([LINK](https://peerj.com/articles/cs-2590/))
 
