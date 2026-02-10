@@ -1,9 +1,13 @@
 ---
-title: "Universidad Adolfo Ibáñez"
+title: "Universidad Adolfo Ibanez"
 collection: teaching
-type: "Undergraduate course"
+type: "Courses"
 permalink: /teaching/UAI
-venue: "Data mining (Semester 2-2019), Introduction to artificial intelligence  (Semester 2-2019)"
-date: 2022-01-01
+venue: "Facultad de Ingenieria y Ciencias"
+date: 2024-01-01
 location: "Santiago, Chile"
 ---
+
+* "Textual analytics" Diploma course (Second Semester 2023-2024).
+* "Data mining" Second Semester 2019.
+* "Introduction to artificial intelligence" Second Semester 2019.
