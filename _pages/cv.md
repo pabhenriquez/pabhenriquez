@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/cv_pablo.pdf){: .btn .btn--primary}
+
 Education
 ======
 * Ph.D. Complex Systems Engineering, Universidad Adolfo Ibanez, 2019.
