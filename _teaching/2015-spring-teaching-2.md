@@ -1,9 +1,9 @@
 ---
-title: "Universidad Adolfo Ibanez"
+title: "Universidad Adolfo Ibáñez"
 collection: teaching
 type: "Courses"
 permalink: /teaching/UAI
-venue: "Facultad de Ingenieria y Ciencias"
+venue: "Facultad de Ingeniería y Ciencias"
 date: 2024-01-01
 location: "Santiago, Chile"
 ---
